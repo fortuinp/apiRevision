@@ -13,11 +13,11 @@
 //     return a+b
 // }
 
-const addition =(a,b)=>{
-    return b>a?
-    `${b} is greater than ${a}`:
-    a-b
-}
-export{
-    addition
-}
+// const addition =(a,b)=>{
+//     return b>a?
+//     `${b} is greater than ${a}`:
+//     a-b
+// }
+// export{
+//     addition
+// }
